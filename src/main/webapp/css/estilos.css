@@ -1,0 +1,59 @@
+@font-face {
+    font-family: myFont;
+    src: url(font2.ttf);
+}
+
+
+body{
+	text-align: center;
+	background-image: url(https://images.unsplash.com/photo-1424115087662-5845efc6b366?ixlib=rb-0.3.5&s=4445252396482c91a05d3d81c9703a6c&auto=format&fit=crop&w=1534&q=80);
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.9;
+}
+
+
+h1{
+	
+}
+
+#cuadro{
+	/*border: 1px solid black;*/
+	padding: 2em;
+	background-color: rgba(0,0,0,.6);
+	position: absolute;
+	left: 22vw;
+	width: 50vw;
+}
+
+#pan{
+	position: relative;
+	left: 20%;
+}
+
+.margin{
+	margin: .5em;	
+}
+
+#titulo{
+	font-size: 3em;
+	color: white;
+	font-family: 'Spirax', cursive;
+	cursor: default;
+}
+
+.cursorDefault{
+	cursor: default;
+}
+
+.label{
+	width: 25%x;
+}
+.value{
+	width: 75%;
+}
+
+
+
+
+
